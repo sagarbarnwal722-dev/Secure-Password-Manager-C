@@ -75,3 +75,28 @@ gcc PasswordManager.c -o PasswordManager
 ```bash
 PasswordManager.exe
 ```
+
+## Project Structure
+
+Secure-Password-Manager-C
+│
+├── password_manager
+│   ├── PasswordManager.c
+│   └── screenshots
+│
+├── README.md
+└── .gitignore
+
+## Requirements
+
+- GCC Compiler
+- Windows OS
+- Standard C Libraries
+
+## Future Enhancements
+
+- AES-256 Encryption
+- Cloud Backup
+- Multi-User Support
+- Password Strength Analytics
+- Two-Factor Authentication (2FA)
