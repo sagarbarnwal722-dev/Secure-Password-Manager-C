@@ -64,3 +64,14 @@ Screenshots demonstrating all features are available in the screenshots folder.
 ### Backup Encryption
 ![Backup Encryption](password_manager/screenshots/backup_encrypt.png)
 
+## How to Compile
+
+```bash
+gcc PasswordManager.c -o PasswordManager
+```
+
+## How to Run
+
+```bash
+PasswordManager.exe
+```
